@@ -7,7 +7,7 @@ date: 2024/7/10
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
   
 </video>
-<video width="500" height="250" controls="controls">
+<video width="500" height="250" controls="controls2">
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
 </video>
 
