@@ -1,6 +1,11 @@
-# Benchmark Task Vedio Show
+# Benchmark Task Video Show
 
 ## 1.Task1 将水杯移至杯垫（单臂，抓边缘）
+<video width="500" height="250" controls="controls">
+  <source src="/vedio/pick_empty_cup_top.mp4" type="video/mp4">
+  <source src="/vedio/pick_empty_cup_left.mp4" type="video/mp4">
+</video>
+
 
 
 ## 2.Task2 将水杯（装有橙汁）移至杯垫（单臂，抓中间）
