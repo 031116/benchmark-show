@@ -1,6 +1,6 @@
 ---
 title: Benchmark任务视频展示
-date: 2024/7/20
+date: 2024/7/10
 ---
 ## 1.Task1 将水杯移至杯垫（单臂，抓边缘）
 <video width="500" height="250" controls="controls">
