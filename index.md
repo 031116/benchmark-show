@@ -18,12 +18,12 @@ date: 2024/7/10
 
 ### 1. top camera
 <video width="500" height="250" controls="controls">
-  <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
+  <source src="./vedio/pick_cup_with_liquid_top.mp4" type="video/mp4">
 </video>
 
 ### 2. left camera
 <video width="500" height="250" controls="controls">
-  <source src="./vedio/pick_empty_cup_left.mp4" type="video/mp4">
+  <source src="./vedio/pick_cup_with_liquid_left.mp4" type="video/mp4">
 </video>
 
 ## Task3 左手拿起蓝色水瓶，右手拿起红色水瓶（双臂）
