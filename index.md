@@ -15,6 +15,7 @@ date: 2024/7/10
 </video>
 
 ## Task2 将水杯（装有橙汁）移至杯垫（单臂，抓中间）
+
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
@@ -29,6 +30,7 @@ date: 2024/7/10
 
 
 ## Task4 锤子锤击标记点（单臂tool-use）
+
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/hammer_beat_target_top.mp4" type="video/mp4">
@@ -40,6 +42,7 @@ date: 2024/7/10
 </video>
 
 ## Task5 调整刷子姿势
+
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/move_brush_top.mp4" type="video/mp4">
@@ -58,17 +61,17 @@ date: 2024/7/10
 ## Task6 左手从桌面左侧拿锤子转交给右手并放置到桌面右侧（双臂）
 ### 1. top camera
 <video width="500" height="250" controls="controls">
-  <source src="./vedio/move_brush_top.mp4" type="video/mp4">
+  <source src="./vedio/pick_hammer_top.mp4" type="video/mp4">
 </video>
 
 ### 2. left camera
 <video width="500" height="250" controls="controls">
-  <source src="./vedio/move_brush_left.mp4" type="video/mp4">
+  <source src="./vedio/pick_hammer_left.mp4" type="video/mp4">
 </video>
 
 ### 3. right camera
 <video width="500" height="250" controls="controls">
-  <source src="./vedio/move_brush_right.mp4" type="video/mp4">
+  <source src="./vedio/pick_hammer_right.mp4" type="video/mp4">
 </video>
 
 ## Task7 开柜门（单臂，mobile，articulated）
