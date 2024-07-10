@@ -7,9 +7,6 @@ date: 2024/7/10
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
   <source src="./vedio/pick_empty_cup_left.mp4" type="video/mp4">
 </video>
-<!-- <video width="500" height="250" controls="controls">
-  
-</video> -->
 
 
 ## 2.Task2 将水杯（装有橙汁）移至杯垫（单臂，抓中间）
