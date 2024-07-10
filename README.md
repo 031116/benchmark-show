@@ -1,51 +1,31 @@
-<header>
+# Benchmark Task Vedio Show
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## 1.Task1 将水杯移至杯垫（单臂，抓边缘）
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 2.Task2 将水杯（装有橙汁）移至杯垫（单臂，抓中间）
 
-</header>
 
-<!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  Historic note: previous version checked the homepage content was not empty.
--->
+## 3.Task3 左手拿起蓝色水瓶，右手拿起红色水瓶（双臂）
 
-## Step 3: Customize your homepage
 
-_Nice work setting the theme! :sparkles:_
+## 4.Task4 锤子锤击标记点（单臂tool-use）
 
-You can customize your homepage by adding content to either an `index.md` file or the `README.md` file. GitHub Pages first looks for an `index.md` file. Your repository has an `index.md` file so we can update it to include your personalized content.
 
-### :keyboard: Activity: Create your homepage
+## 5.Task5 调整刷子姿势
 
-1. Browse to the `index.md` file in the `my-pages` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or just ignore it for now. We'll discuss it in the next step.
-1. Commit your changes to the `my-pages` branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>
+## 6.Task6 左手从桌面左侧拿锤子转交给右手并放置到桌面右侧（双臂）
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
 
----
+## 7.Task7 开柜门（单臂，mobile，articulated）
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 8.Task8 将柜门打开，并把锅放到柜子上（双臂+mobile）
 
-</footer>
+## 9.Task9 双臂接锅（双臂任务）
+
+## 10.Task10 抓起钢丝球刷锅（双臂协作，tool-use）
+
+## 11.Task11 推动凳子（双臂，mobile）
+
