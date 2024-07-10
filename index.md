@@ -6,7 +6,6 @@ date: 2024/7/10
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
-  
 </video>
 
 ### 1. left camera
@@ -18,7 +17,6 @@ date: 2024/7/10
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
-  
 </video>
 
 ### 1. left camera
