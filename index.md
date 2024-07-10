@@ -3,6 +3,7 @@ title: Benchmark任务视频展示
 date: 2024/7/10
 ---
 ## Task1 将水杯移至杯垫（单臂，抓边缘）
+
 ### 1. top camera
 <video width="500" height="250" controls="controls">
   <source src="./vedio/pick_empty_cup_top.mp4" type="video/mp4">
