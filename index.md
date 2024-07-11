@@ -39,7 +39,22 @@ date: 2024/7/10
 </div>
 
 ## Task3 左手拿起蓝色水瓶，右手拿起红色水瓶（双臂）
+<div class="video-container">
+  <!-- Top camera -->
+  <video width="500" height="250" controls autoplay>
+    <source src="./vedio/pick_bottle_top.mp4" type="video/mp4">
+  </video>
 
+  <!-- Left camera -->
+  <video width="500" height="250" controls autoplay>
+    <source src="./vedio/pick_bottle_left.mp4" type="video/mp4">
+  </video>
+
+  <!-- Right camera -->
+  <video width="500" height="250" controls autoplay>
+    <source src="./vedio/pick_bottle_right.mp4" type="video/mp4">
+  </video>
+</div>
 
 ## Task4 锤子锤击标记点（单臂tool-use）
 
